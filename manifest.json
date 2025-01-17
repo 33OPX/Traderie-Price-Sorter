@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Traderie Price Sorter",
+  "version": "1.0",
+  "description": "A Chrome extension to sort and filter Diablo 2 rune listings on Traderie.",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://traderie.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon.png"
+  },
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  }
+}
