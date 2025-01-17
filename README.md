@@ -34,7 +34,8 @@ If you are not using Chrome, you can run the script manually:
 
 ## How to Use  
 1. Visit Traderie and browse listings as you normally would.  
-2. The extension or script will automatically sort item prices for you.  
+2. Scroll down or Press the End key and as many listings as you want.
+3. Press the Refresh Listings button to sort all prices currently on the page. 
 
 ---
 
