@@ -48,7 +48,7 @@ We welcome contributions! Feel free to:
 
 ## Donations  
 If you find this extension helpful, consider showing your support:  
-- Donate **in-game runes or currency** to help motivate further development.  
+- Donate **in-game runes or currency** to help motivate further development. BiGJoKeR#11896  
 - Donate on **D2JSP** by visiting my profile: [https://forums.d2jsp.org/user.php?i=1160374](https://forums.d2jsp.org/user.php?i=1160374).  
 
 Your support is greatly appreciated!  
